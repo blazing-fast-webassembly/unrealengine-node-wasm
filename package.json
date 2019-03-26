@@ -1,0 +1,30 @@
+{
+  "name": "unrealengine-node-wasm",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Unreal Engine 4 node.js server for webassembly version",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaqqaz/unrealengine-node-wasm.git"
+  },
+  "keywords": [
+    "unreal",
+    "unrealengine",
+    "wasm",
+    "webassembly",
+    "node"
+  ],
+  "author": "zaqqaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaqqaz/unrealengine-node-wasm/issues"
+  },
+  "homepage": "https://github.com/zaqqaz/unrealengine-node-wasm#readme"
+}
